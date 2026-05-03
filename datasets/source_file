@@ -1,0 +1,11 @@
+## Dataset
+
+The size of CSV file exceeds the size allowed on GitHub to upload it directly to repository.
+
+Original LendingClub loan dataset:
+
+https://www.kaggle.com/datasets/wordsforthewise/lending-club
+
+Download the CSV and place it into:
+
+C:/datasets/
